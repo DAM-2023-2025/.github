@@ -42,16 +42,17 @@
 
 </details>
 
+<hr>
 
-## [DECRET 260/2013, de 3 de desembre, pel qual s'estableix el currículum del cicle formatiu de grau superior
-de desenvolupament d'aplicacions multiplataforma](https://portaldogc.gencat.cat/utilsEADOP/PDF/6516/1328538.pdf)
+## [DECRET 260/2013, de 3 de desembre, pel qual s'estableix el currículum del cicle formatiu de grau superior de desenvolupament d'aplicacions multiplataforma](https://portaldogc.gencat.cat/utilsEADOP/PDF/6516/1328538.pdf)
+
+<hr>
 
 ### Primer curs (2023-2024) - DAM1
 
 ## MP03: **Programació**
 
 ### MP03 - ***UF01***: Programació estructurada
-
 
 
 ## A01U - Activitat 1: Servidor i contenidor nginx (part servidor)

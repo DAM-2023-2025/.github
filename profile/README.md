@@ -48,7 +48,7 @@
 
 <hr>
 
-### Primer curs (2023-2024) - DAM1
+# Primer curs (2023-2024) - DAM1
 
 ## MP03: **Programació**
 

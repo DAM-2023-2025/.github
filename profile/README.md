@@ -43,11 +43,38 @@
 </details>
 
 
+## [DECRET 260/2013, de 3 de desembre, pel qual s'estableix el currículum del cicle formatiu de grau superior
+de desenvolupament d'aplicacions multiplataforma](https://portaldogc.gencat.cat/utilsEADOP/PDF/6516/1328538.pdf)
+
 ### Primer curs (2023-2024) - DAM1
 
-## MP05: **Entorns de desenvolupament**
+## MP03: **Programació**
+
+### MP03 - ***UF01***: Programació estructurada
+
+
+
+## A01U - Activitat 1: Servidor i contenidor nginx (part servidor)
+
+
+
+<!--
+### MP03 - ***UF02***: disseny modular
+
+### MP03 - ***UF03***: fonaments de gestió de fitxers
+
+### MP03 - ***UF04***: programació orientada a objectes (POO). Fonaments
+
+### MP03 - ***UF05***: POO. Llibreries de classes fonamentals
+
+### MP03 - ***UF06***: POO. Introducció a la persistència en BD
+-->
+
+
 
 <hr>
+
+## MP05: **Entorns de desenvolupament**
 
 ### MP05 - ***UF01***: Desenvolupament de programari
 
@@ -131,6 +158,14 @@ El programa (**```llistat_usuaris.php```**) fet amb **PHP** cal que mostri una t
 ## A05U - Activitat 5: Modificació de literals del PHP i dades de la base de dades
 
 [dam1-mp05-uf01-a05u](https://github.com/DAM-2023-2025/dam1-mp05-uf01-a05u.git)
+
+
+
+<!-- ### MP05 - ***UF02***: Optimització de programari
+
+### MP05 - ***UF03***: Introducció al disseny orientat a objectes -->
+
+
 
 <hr>
 

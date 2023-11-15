@@ -1,6 +1,4 @@
-# Repositori de l'Organització DAM-2023-2025
-
-## Repositori de l'Organització **```DAM-20233-2025```**
+# Repositori de la promoció de DAM 2023-2025
 
 <details><summary>Desplega per veure les hores del cicle</summary>
 
@@ -8,37 +6,38 @@
 
 |Mòduls professionals|Hores|
 |----|----:|
-|MP01 - Sistemes informàtics|121|
-|MP02 - Bases de dades|110|
-|MP03 - Programació|187|
-|MP04 - Llenguatges de marques i sistemes de gestió d’informació|77|
-|MP05 - Entorns de desenvolupament|55|
-|MP06 - Accés a dades|88|
-|MP11 - Formació i orientació laboral|66|
-|MP12 - Empresa i iniciativa emprenedora|66|
-|MP15 - Game design|33|
-|MP16 - Disseny 2D i 3D|88|
-|**Total primer curs**|**891**|
+|*MP01*: **Muntatge i manteniment d'equips**|```132``` h.|
+|*MP01* - **Sistemes informàtics**|```121``` h.|
+|*MP02* - **Bases de dades**|```110``` h.|
+|*MP03* - **Programació**|```187``` h.|
+|*MP04* - **Llenguatges de marques i sistemes de gestió d’informació**|```77``` h.|
+|*MP05* - **Entorns de desenvolupament**|```55``` h.|
+|*MP06* - **Accés a dades**|```88``` h.|
+|*MP11* - **Formació i orientació laboral**|```66``` h.|
+|*MP12* - **Empresa i iniciativa emprenedora**|```66``` h.|
+|*MP15* - **Game design**|```33``` h.|
+|*MP16* - **Disseny 2D i 3D**|```88``` h.|
+|**Total primer curs**|**```891```** h.|
 
 ## Curs 2n de DAM
 |Mòduls professionals|Hores|
 |----|----:|
-|MP07. Desenvolupament d’interfícies|88|
-|MP08. Programació multimèdia i dispositius mòbils|77|
-|MP09. Programació de serveis i processos|55|
-|MP10. Sistemes de gestió empresarial|55|
-|MP13. Projecte|297|
-|MP17. Programació de videojocs 2D i 3D|154|
-|MP14. Formació en centres de treball|383|
-|**Total segon curs**|**1109**|
+|*MP07* - Desenvolupament d’interfícies|```88``` h.|
+|*MP08* - Programació multimèdia i dispositius mòbils|```77``` h.|
+|*MP09* - Programació de serveis i processos|```55``` h.|
+|*MP10* - Sistemes de gestió empresarial|```55``` h.|
+|*MP13* - Projecte|```297``` h.|
+|*MP17* - Programació de videojocs 2D i 3D|```154``` h.|
+|*MP14* - Formació en centres de treball|```383``` h.|
+|**Total segon curs**|**```1109```** h.|
 
 ## Cicle de DAM
 
 |Curs|Hores|
 |----|----:|
-|Total primer curs|891|
-|Total segon curs|1109|
-|**Total cicle**|**2000**|
+|*Total primer curs*|**```891```**|
+|*Total segon curs*|**```1109```**|
+|**Total cicle**|**```2000```**|
 
 </details>
 
@@ -54,6 +53,35 @@
 
 ### MP03 - ***UF01***: Programació estructurada
 
+### Teoria
+
+(penjat al suro del **ClickEdu**) 
+
+1) [Introducció](https://docs.google.com/presentation/d/1aBf4VnCOZgechnJjN3sXN_2QyUyr7Kaw8hkxWhokgZk)
+
+2) [Programació estructurada](https://docs.google.com/presentation/d/1Ei9mPfojzUbFrE8Bai3403PG8Sxn9OymbTVNz05sNmc)
+
+3) [Repositori de l'Organització DAM-2023-2025](https://github.com/DAM-2023-2025)
+
+4) [Discord DAM1](https://discord.com/invite/mE8mGTuM)
+
+5) [code.org](code.org) (DAM1) Codi **```QVXDCD```**
+
+6) [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2023-2025/dam1-mp03-definicio-d-analisi-i-disseny.git)
+
+
+Python
+1) [DAM-2023-2025/python](https://github.com/DAM-2023-2025/python)
+
+2) [Apunts de python (w3school)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
+
+3) apunts-de-python (solucions)
+
+	https://joanpardogine.github.io/apunts-de-python/python-tutorial.html (Visible als alumnes)
+apunts-de-python (w3school)
+(vincle genèric)
+https://github.com/joanpardogine/apunts-de-python.git	https://github.com/joanpardogine/apunts-de-python.git (Visible als alumnes)
+apunts-de-python
 
 ## A01U - Activitat 1: Servidor i contenidor nginx (part servidor)
 

@@ -39,11 +39,10 @@
 |*Total segon curs*|**```1109```**|
 |**Total cicle**|**```2000```**|
 
-</details>
-
-<hr>
 
 ## [DECRET 260/2013, de 3 de desembre, pel qual s'estableix el currículum del cicle formatiu de grau superior de desenvolupament d'aplicacions multiplataforma](https://portaldogc.gencat.cat/utilsEADOP/PDF/6516/1328538.pdf)
+
+</details>
 
 <hr>
 
@@ -57,31 +56,34 @@
 
 (penjat al suro del **ClickEdu**) 
 
-1) [Introducció](https://docs.google.com/presentation/d/1aBf4VnCOZgechnJjN3sXN_2QyUyr7Kaw8hkxWhokgZk)
+## Presentacions
 
-2) [Programació estructurada](https://docs.google.com/presentation/d/1Ei9mPfojzUbFrE8Bai3403PG8Sxn9OymbTVNz05sNmc)
+**1.** [Introducció](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0001_UF01_Introduccio.pdf)
 
-3) [Repositori de l'Organització DAM-2023-2025](https://github.com/DAM-2023-2025)
+**2.** [Programació estructurada](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0004_UF01_Programacio_Estructurada.pdf)
 
-4) [Discord DAM1](https://discord.com/invite/mE8mGTuM)
+**3.** [Motivacio](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0003_UF01_Motivacio.pdf)
 
-5) [code.org](code.org) (DAM1) Codi **```QVXDCD```**
+## Altres
 
-6) [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2023-2025/dam1-mp03-definicio-d-analisi-i-disseny.git)
+**1.** [Repositori de l'Organització DAM-2023-2025](https://github.com/DAM-2023-2025)
 
+**2.** [Discord DAM1](https://discord.com/invite/mE8mGTuM)
 
-Python
-1) [DAM-2023-2025/python](https://github.com/DAM-2023-2025/python)
+**3.** [code.org](code.org) (DAM1) Codi **```QVXDCD```**
 
-2) [Apunts de python (w3school)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
+**4.** [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2023-2025/dam1-mp03-definicio-d-analisi-i-disseny.git)
+
+## Python
+
+**1.** [DAM-2023-2025/python](https://github.com/DAM-2023-2025/python)
+
+**2.** [Apunts de python (versió **```w3school```**)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
 
 3) apunts-de-python (solucions)
 
-	https://joanpardogine.github.io/apunts-de-python/python-tutorial.html (Visible als alumnes)
-apunts-de-python (w3school)
-(vincle genèric)
-https://github.com/joanpardogine/apunts-de-python.git	https://github.com/joanpardogine/apunts-de-python.git (Visible als alumnes)
-apunts-de-python
+
+https://github.com/joanpardogine/apunts-de-python.git
 
 ## A01U - Activitat 1: Servidor i contenidor nginx (part servidor)
 

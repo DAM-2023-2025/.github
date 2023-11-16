@@ -80,12 +80,11 @@
 
 **2.** [Apunts de python (versió **```w3school```**)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
 
-3) apunts-de-python (solucions)
+**3.** [Apunts de python **enunciats i solucions**](https://github.com/DAM-2023-2025/dam1-mp03-apunts-de-python)
 
 
-https://github.com/joanpardogine/apunts-de-python.git
 
-## A01U - Activitat 1: Servidor i contenidor nginx (part servidor)
+<!-- ## A01U - Activitat 1: Servidor i contenidor nginx (part servidor) -->
 
 
 

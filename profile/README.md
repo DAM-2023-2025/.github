@@ -58,31 +58,29 @@
 
 ## Presentacions
 
-**1.** [Introducció](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0001_UF01_Introduccio.pdf)
+### **1.** [Introducció](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0001_UF01_Introduccio.pdf)
 
-**2.** [Programació estructurada](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0004_UF01_Programacio_Estructurada.pdf)
+### **2.** [Programació estructurada](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0004_UF01_Programacio_Estructurada.pdf)
 
-**3.** [Motivacio](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0003_UF01_Motivacio.pdf)
+### **3.** [Motivacio](https://github.com/DAM-2023-2025/.github/blob/main/profile/documents/DAM_MP03_0003_UF01_Motivacio.pdf)
 
 ## Altres
 
-**1.** [Repositori de l'Organització DAM-2023-2025](https://github.com/DAM-2023-2025)
+### **1.** [Repositori de l'Organització DAM-2023-2025](https://github.com/DAM-2023-2025)
 
-**2.** [Discord DAM1](https://discord.com/invite/mE8mGTuM)
+### **2.** [Discord DAM1](https://discord.com/invite/mE8mGTuM)
 
-**3.** [code.org](code.org) (DAM1) Codi **```QVXDCD```**
+### **3.** [code.org](code.org) (DAM1) Codi **```QVXDCD```**
 
-**4.** [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2023-2025/dam1-mp03-definicio-d-analisi-i-disseny.git)
+### **4.** [Definició teòrica d'Anàlisi i Disseny](https://github.com/DAM-2023-2025/dam1-mp03-definicio-d-analisi-i-disseny.git)
 
 ## Python
 
-**1.** [DAM-2023-2025/python](https://github.com/DAM-2023-2025/python)
+### **1.** [DAM-2023-2025/python](https://github.com/DAM-2023-2025/python)
 
-**2.** [Apunts de python (versió **```w3school```**)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
+### **2.** [Apunts de python (versió **```w3school```**)](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
 
-**3.** [Apunts de python **enunciats i solucions**](https://github.com/DAM-2023-2025/dam1-mp03-apunts-de-python)
-
-
+### **3.** [Apunts de python **enunciats i solucions**](https://github.com/DAM-2023-2025/dam1-mp03-apunts-de-python)
 
 <!-- ## A01U - Activitat 1: Servidor i contenidor nginx (part servidor) -->
 

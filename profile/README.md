@@ -22,13 +22,13 @@
 ## Curs 2n de DAM
 |Mòduls professionals|Hores|
 |----|----:|
-|*MP07* - Desenvolupament d’interfícies|```88``` h.|
-|*MP08* - Programació multimèdia i dispositius mòbils|```77``` h.|
-|*MP09* - Programació de serveis i processos|```55``` h.|
-|*MP10* - Sistemes de gestió empresarial|```55``` h.|
-|*MP13* - Projecte|```297``` h.|
-|*MP17* - Programació de videojocs 2D i 3D|```154``` h.|
-|*MP14* - Formació en centres de treball|```383``` h.|
+|*MP07* - **Desenvolupament d’interfícies**|```88``` h.|
+|*MP08* - **Programació multimèdia i dispositius mòbils**|```77``` h.|
+|*MP09* - **Programació de serveis i processos**|```55``` h.|
+|*MP10* - **Sistemes de gestió empresarial**|```55``` h.|
+|*MP13* - **Projecte**|```297``` h.|
+|*MP17* - **Programació de videojocs 2D i 3D**|```154``` h.|
+|*MP14* - **Formació en centres de treball**|```383``` h.|
 |**Total segon curs**|**```1109```** h.|
 
 ## Cicle de DAM

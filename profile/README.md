@@ -1,5 +1,15 @@
 # Repositori de la promoció de DAM 2023-2025
 
+
+[Apunts de programació](https://github.com/DAM-2023-2025/dam1-mp03-apunts-de-python)
+
+[Disseny i realització de proves de programari - Introducció](https://github.com/DAM-2023-2025/dam1-mp05-uf02)
+
+[Disseny i realització de proves de programari - Explicació](https://github.com/DAM-2023-2025/dam1-mp05-uf02/blob/main/disseny-i-realitzacio-de-proves-de-programari.md)
+
+[Exercici per veure un exemple de les Proves Unitàries](https://github.com/DAM-2023-2025/dam1-mp05-uf02/blob/main/exercici-proves-unitaries.md)
+
+
 <details><summary>Desplega per veure les hores del cicle</summary>
 
 ## Curs 1r de DAM

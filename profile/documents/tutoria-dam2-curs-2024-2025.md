@@ -4,16 +4,14 @@
 
 ## Presentació
 
-[Horari](./horari-dam2-2024-2025.pdf)
+1. [Horari](./horari-dam2-2024-2025.pdf)
 
 
-[Curs 2024-2025 - Reunió informativa - 2n de DAM videojocs](./reunio-families-dam2-curs-2024-2025.pdf)
+1. [Curs 2024-2025 - Reunió informativa - 2n de DAM videojocs](./reunio-families-dam2-curs-2024-2025.pdf)
 
 [Calendari](https://calendar.google.com/calendar/embed?src=c_0fdb75ac4a12020449ceee819dd9100fa7216a5b580b8b49064a3ec58135d5b4%40group.calendar.google.com&ctz=Europe%2FMadrid)
 
-3. [Pla anual curs 2023-2024 DAM](https://github.com/DAM-2022-2024/.github/blob/main/profile/tutoria/docs/pla-anual-2023-2024-DAM.pdf)
-
-4. [Formulari pica-pica](https://forms.gle/J58FEfusVfUj66F96)
+1. [Formulari pica-pica](https://forms.gle/ZehDY8qG8WpdgQUv7)
 
 ### FCT
 

@@ -3,32 +3,35 @@
 # Desenvolupament d'aplicacions multiplataforma (videojocs i oci digital)
 
 <details><summary>Ìndex</summary>
+<hr>
 
-1. ## [Temes tutoria](#temes-tutoria)
+### **1.** [Temes tutoria](#temes-tutoria)
 
-1. ## [Temes FCT](#temes-fct)
+### **2.** [Temes FCT](#temes-fct)
 
-1. ## [Grups per les setmanes d'exàmens](#grups-per-les-setmanes-dexàmens)
+### **3.** [Grups per les setmanes d'exàmens](#grups-per-les-setmanes-dexàmens)
 
-    1. ### [1a setmana d'exàmens](#1a-setmana-dexàmens)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **3.1.** [1a setmana d'exàmens](#1a-setmana-dexàmens)
 
+<hr>
 </details>
 
 ## Temes Tutoria
 
-1. [Horari](./horari-dam2-2024-2025.pdf)
+#### [Horari](./horari-dam2-2024-2025.pdf)
 
-1. [Curs 2024-2025 - Reunió informativa - 2n de DAM videojocs](./reunio-families-dam2-curs-2024-2025.pdf)
+#### [Curs 2024-2025 - Reunió informativa - 2n de DAM videojocs](./reunio-families-dam2-curs-2024-2025.pdf)
 
-1. [Calendari](https://calendar.google.com/calendar/embed?src=c_0fdb75ac4a12020449ceee819dd9100fa7216a5b580b8b49064a3ec58135d5b4%40group.calendar.google.com&ctz=Europe%2FMadrid)
+#### [Calendari](https://calendar.google.com/calendar/embed?src=c_0fdb75ac4a12020449ceee819dd9100fa7216a5b580b8b49064a3ec58135d5b4%40group.calendar.google.com&ctz=Europe%2FMadrid)
 
-1. [Formulari pica-pica](https://forms.gle/ZehDY8qG8WpdgQUv7)
+#### [Formulari pica-pica](https://forms.gle/ZehDY8qG8WpdgQUv7)
 
-### Temes FCT
+## Temes FCT
 
 1. [Pla d'Activitats DAM](pla-d-activitats-dam.pdf)
 
 1. [Formulari dades de l'empresa](https://docs.google.com/forms/d/1SP3yrdzbV2eXbzPK0fYHxTcMViiIIRzJzUUWpru14T4)
+
 
 ## Grups per les setmanes d'exàmens
 

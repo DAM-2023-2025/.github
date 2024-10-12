@@ -1,5 +1,7 @@
 # Repositori de la promoció de DAM 2023-2025
 
+## [Tutoria DAM2 curs 2024-2025](./documents/tutoria-dam2-curs-2024-2025.md)
+
 <hr>
 
 ## Apunts de **`Java`**
@@ -150,9 +152,9 @@ De cada pas cal que aparegui:
 ?>
 ```
 
-**3.** Obre el navegador i mostra **```<ipDelSerbvidor>/index.php```**
+**3.** Obre el navegador i mostra **```<ipDelServidor>/index.php```**
 
-**4.** Afegeix al **```README.md```** una imatge del navegador mostrant el resultat d'accedir a l'adreça <ipDelSerbvidor>/index.php
+**4.** Afegeix al **```README.md```** una imatge del navegador mostrant el resultat d'accedir a l'adreça <ipDelServidor>/index.php
 
 ## A03U - Activitat 3: Servidor amb mariadb (part base de dades)
 

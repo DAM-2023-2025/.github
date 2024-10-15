@@ -35,7 +35,7 @@
 
 ## Grups per les setmanes d'exàmens
 
-|**GRUP A**|**GRUP B**|
+|**Grup A**|**Grup B**|
 |----|----|
 |Blanch Martínez, David	| Brillas Villanueva, Manel|
 |Bosch López, Martí	| Caritg Pardo, Alek|

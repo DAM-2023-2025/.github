@@ -49,6 +49,8 @@
 |Loriz Pou, Gerard	| Rubio López, Èric|
 |Pavo Rodriguez , Alex	Vásquez | Almeida, Anthony José|
 |Sánchez Gras, Hector	| Vèlez Mañas, Raul|
+|Subirà Viñas, César	| |
+
 
 
 ### 1a setmana d'exàmens

@@ -44,14 +44,12 @@
 |Corbacho Rodriguez, Oscar|Garcia Antunez, Ferran|
 |Gallego Clavijo, Guillem|Gómez Beato, Pol|
 |Rubio López, Èric|Giribet Vives, Sergi|
-|Gonzalez Alcazar, Pol|Julià Bosch, Jaume|
+|González Alcázar, Pol|Julià Bosch, Jaume|
 |Vèlez Mañas, Raul|Martinez Coll, Joan|
-|Gonzalez Jimenez, Marti|Jara Duarte, Paula|
+|González Jimenez, Marti|Jara Duarte, Paula|
 |Pavo Rodriguez , Alex|Vásquez Almeida, Anthony|
 |Sánchez Gras, Hector|Loriz Pou, Gerard|
 |Subirà Viñas, César||
-|||
-
 
 
 ### 1a setmana d'exàmens

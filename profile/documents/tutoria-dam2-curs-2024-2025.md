@@ -37,19 +37,20 @@
 
 |**Grup A**|**Grup B**|
 |----|----|
-|Blanch Martínez, David	| Brillas Villanueva, Manel|
-|Bosch López, Martí	| Caritg Pardo, Alek|
-|Calle López, Xavier	| Clavijos Roger, Arnau|
-|Cerezo Rossell, Pol	| Ferro Torras, Iñaki|
-|Corbacho Rodriguez, Oscar	| Garcia Antunez, Ferran|
-|Gallego Clavijo, Guillem	| Gómez Beato, Pol|
-|Giribet Vives, Sergi	| Gonzalez Jimenez, Marti|
-|Gonzalez Alcazar, Pol	| Julià Bosch, Jaume|
-|Jara Duarte, Paula	| Martinez Coll, Joan|
-|Loriz Pou, Gerard	| Rubio López, Èric|
-|Pavo Rodriguez , Alex	Vásquez | Almeida, Anthony José|
-|Sánchez Gras, Hector	| Vèlez Mañas, Raul|
-|Subirà Viñas, César	| |
+|Blanch Martínez, David|Brillas Villanueva, Manel|
+|Bosch López, Martí|Caritg Pardo, Alek|
+|Calle López, Xavier|Clavijos Roger, Arnau|
+|Cerezo Rossell, Pol|Ferro Torras, Iñaki|
+|Corbacho Rodriguez, Oscar|Garcia Antunez, Ferran|
+|Gallego Clavijo, Guillem|Gómez Beato, Pol|
+|Rubio López, Èric|Giribet Vives, Sergi|
+|Gonzalez Alcazar, Pol|Julià Bosch, Jaume|
+|Vèlez Mañas, Raul|Martinez Coll, Joan|
+|Gonzalez Jimenez, Marti|Jara Duarte, Paula|
+|Pavo Rodriguez , Alex|Vásquez Almeida, Anthony|
+|Sánchez Gras, Hector|Loriz Pou, Gerard|
+|Subirà Viñas, César||
+|||
 
 
 

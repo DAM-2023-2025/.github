@@ -51,6 +51,7 @@
 |Subirà Viñas, César|Vásquez Almeida, Anthony José|
 |Vèlez Mañas, Raul||
 
+<hr>
 
 ### 2a setmana d'exàmens
 
@@ -59,6 +60,8 @@
 ![DAM-2024-2025-horari-2a-setmana-d-examens](DAM-2024-2025-horari-2a-setmana-d-examens.png)
 
 Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a-setmana-d-examens.pdf)
+
+<hr>
 
 ### 1a setmana d'exàmens
 

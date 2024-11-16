@@ -42,18 +42,28 @@
 |Calle López, Xavier|Clavijos Roger, Arnau|
 |Cerezo Rossell, Pol|Ferro Torras, Iñaki|
 |Corbacho Rodriguez, Oscar|Garcia Antunez, Ferran|
-|Gallego Clavijo, Guillem|Gómez Beato, Pol|
-|Rubio López, Èric|Giribet Vives, Sergi|
-|González Alcázar, Pol|Julià Bosch, Jaume|
-|Vèlez Mañas, Raul|Martinez Coll, Joan|
-|González Jimenez, Marti|Jara Duarte, Paula|
-|Pavo Rodriguez , Alex|Vásquez Almeida, Anthony|
-|Sánchez Gras, Hector|Loriz Pou, Gerard|
-|Subirà Viñas, César||
+|Gallego Clavijo, Guillem|Giribet Vives, Sergi|
+|Gonzalez Alcazar, Pol|Gómez Beato, Pol|
+|Gonzalez Jimenez, Marti|Jara Duarte, Paula|
+|Pavo Rodriguez , Alex|Julià Bosch, Jaume|
+|Rubio López, Èric|Loriz Pou, Gerard|
+|Sánchez Gras, Hector|Martinez Coll, Joan|
+|Subirà Viñas, César|Vásquez Almeida, Anthony José|
+|Vèlez Mañas, Raul||
 
+
+### 2a setmana d'exàmens
+
+**Grup B** de 15.00 h a 17.30 h<br>**Grup A** de 17.30 h a 19.00 h
+
+![DAM-2024-2025-horari-2a-setmana-d-examens](DAM-2024-2025-horari-2a-setmana-d-examens.png)
+
+Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a-setmana-d-examens.pdf)
 
 ### 1a setmana d'exàmens
 
 **Grup A** de 15.30 h a 17.00 h       **Grup B** de 17.00 h a 18.30 h
 
 ![alt text](horari-dam2-1a-setmana-examens.png)
+
+Fitxer [DAM-2024-2025-horari-1a-setmana-d-examens.pdf](./DAM-2024-2025-horari-1a-setmana-d-examens.pdf)

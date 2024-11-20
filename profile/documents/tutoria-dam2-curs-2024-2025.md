@@ -55,7 +55,7 @@
 
 ### 2a setmana d'exàmens
 
-**Grup B** de 15.00 h a 17.30 h<br>**Grup A** de 17.30 h a 19.00 h
+**Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 19.00 h
 
 ![DAM-2024-2025-horari-2a-setmana-d-examens](DAM-2024-2025-horari-2a-setmana-d-examens.png)
 

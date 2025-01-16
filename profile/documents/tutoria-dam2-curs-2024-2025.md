@@ -51,7 +51,26 @@
 |Subirà Viñas, César|Vásquez Almeida, Anthony José|
 |Vèlez Mañas, Raul||
 
+
+
 <hr>
+
+### 3a setmana d'exàmens
+
+#### Horari de <u>dilluns</u> a <u>dimecres</u>
+
+**Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
+
+#### Horari de <u>dijous</u>
+
+**Grup A** de 17.00 h a 18.00 h<br>**Grup B** de 18.00 h a 19.00 h
+
+![DAM-2024-2025-horari-3a-setmana-d-examens](DAM-2024-2025-horari-3a-setmana-d-examens.png)
+
+Fitxer [DAM-2024-2025-horari3a-setmana-d-examens.pdf](./DAM-2024-2025-horari-3a-setmana-d-examens.pdf)
+
+<hr>
+
 
 ### 2a setmana d'exàmens
 

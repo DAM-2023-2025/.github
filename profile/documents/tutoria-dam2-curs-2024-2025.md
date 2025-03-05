@@ -52,6 +52,28 @@
 |Vèlez Mañas, Raul||
 
 
+<hr>
+
+### 4a setmana d'exàmens
+
+#### Horari de <u>dilluns</u> a <u>dimecres</u>
+
+**Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
+
+#### Horari de <u>dijous</u>
+
+**Grup B** de 17.00 h a 18.00 h<br>**Grup A** de 18.00 h a 19.00 h
+
+![DAM-2024-2025-horari-4a-setmana-d-examens](DAM-2024-2025-horari-4a-setmana-d-examens.png)
+
+Fitxer [DAM-2024-2025-horari4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a-setmana-d-examens.pdf)
+
+Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
+
+![DAM1-2024-2025-horari-4a-setmana-d-examens](DAM1-2024-2025-horari-4a-setmana-d-examens.png)
+
+Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-4a-setmana-d-examens.pdf)
+
 
 <hr>
 

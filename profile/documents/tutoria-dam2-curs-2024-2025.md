@@ -66,14 +66,15 @@
 
 ![DAM-2024-2025-horari-4a-setmana-d-examens](DAM-2024-2025-horari-4a-setmana-d-examens.png)
 
-Fitxer [DAM-2024-2025-horari4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a-setmana-d-examens.pdf)
+Fitxer [DAM-2024-2025-horari-4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a-setmana-d-examens.pdf)
+
+#### 4a setmana d'exàmens 1r de DAM
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
 ![DAM1-2024-2025-horari-4a-setmana-d-examens](DAM1-2024-2025-horari-4a-setmana-d-examens.png)
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-4a-setmana-d-examens.pdf)
-
 
 <hr>
 

@@ -57,7 +57,7 @@
 
 #### Horari de <u>dimarts</u> a <u>dilluns</u>
 
-**Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
+**Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
 
 ![DAM2-2024-2025-horari-5a-setmana-d-examens.png](DAM2-2024-2025-horari-5a-setmana-d-examens.png)
 

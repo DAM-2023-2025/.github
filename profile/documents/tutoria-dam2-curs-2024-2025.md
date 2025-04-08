@@ -63,9 +63,6 @@
 
 Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-5a-setmana-d-examens.pdf)
 
-
-![alt text](DAM1-2024-2025-horari-5a-setmana-d-examens.png)
-
 #### 5a setmana d'exàmens 1r de DAM
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.

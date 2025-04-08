@@ -55,17 +55,24 @@
 
 ### 5a setmana d'exàmens
 
-#### Horari de <u>dilluns</u> a <u>divendres</u>
+#### Horari de <u>dimarts</u> a <u>dilluns</u>
 
 **Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
 
-#### Horari de <u>dijous</u>
+![DAM2-2024-2025-horari-5a-setmana-d-examens.png](DAM2-2024-2025-horari-5a-setmana-d-examens.png)
 
-**Grup B** de 17.00 h a 18.00 h<br>**Grup A** de 18.00 h a 19.00 h
+Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-5a-setmana-d-examens.pdf)
 
-![DAM-2024-2025-horari-5a-setmana-d-examens](DAM-2024-2025-horari-5a-setmana-d-examens.png)
 
-Fitxer [DAM-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM-2024-2025-horari-5a-setmana-d-examens.pdf)
+![alt text](DAM1-2024-2025-horari-5a-setmana-d-examens.png)
+
+#### 5a setmana d'exàmens 1r de DAM
+
+Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
+
+![DAM1-2024-2025-horari-5a-setmana-d-examens.png](DAM1-2024-2025-horari-5a-setmana-d-examens.png)
+
+Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-5a-setmana-d-examens.pdf)
 
 <hr>
 

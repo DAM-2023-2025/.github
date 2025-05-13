@@ -59,7 +59,7 @@
 
 **Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
 
-<img src="DAM2-2024-2025-horari-6a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM2-2024-2025-horari-6a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM2-2024-2025-horari-6a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-6a-setmana-d-examens.pdf)
 
@@ -67,7 +67,7 @@ Fitxer [DAM2-2024-2025-horari-6a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
-<img src="DAM1-2024-2025-horari-6a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM1-2024-2025-horari-6a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-6a-setmana-d-examens.pdf)
 
@@ -79,7 +79,7 @@ Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-6
 
 **Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
 
-<img src="DAM2-2024-2025-horari-5a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM2-2024-2025-horari-5a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-5a-setmana-d-examens.pdf)
 
@@ -87,7 +87,7 @@ Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
-<img src="DAM1-2024-2025-horari-5a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM1-2024-2025-horari-5a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-5a-setmana-d-examens.pdf)
 
@@ -103,7 +103,7 @@ Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-5
 
 **Grup B** de 17.00 h a 18.00 h<br>**Grup A** de 18.00 h a 19.00 h
 
-<img src="DAM-2024-2025-horari-4a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM-2024-2025-horari-4a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a-setmana-d-examens.pdf)
 
@@ -111,7 +111,7 @@ Fitxer [DAM-2024-2025-horari-4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
-<img src="DAM1-2024-2025-horari-4a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM1-2024-2025-horari-4a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-4a-setmana-d-examens.pdf)
 
@@ -127,7 +127,7 @@ Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-4
 
 **Grup A** de 17.00 h a 18.00 h<br>**Grup B** de 18.00 h a 19.00 h
 
-<img src="DAM-2024-2025-horari-3a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM-2024-2025-horari-3a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM-2024-2025-horari3a-setmana-d-examens.pdf](./DAM-2024-2025-horari-3a-setmana-d-examens.pdf)
 
@@ -138,7 +138,7 @@ Fitxer [DAM-2024-2025-horari3a-setmana-d-examens.pdf](./DAM-2024-2025-horari-3a-
 
 **Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 19.00 h
 
-<img src="DAM-2024-2025-horari-2a-setmana-d-examens.png" width="700" height="auto" >
+<img src="DAM-2024-2025-horari-2a-setmana-d-examens.png" width="800" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a-setmana-d-examens.pdf)
 
@@ -148,6 +148,6 @@ Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a
 
 **Grup A** de 15.30 h a 17.00 h       **Grup B** de 17.00 h a 18.30 h
 
-<img src="horari-dam2-1a-setmana-examens.png" width="700" height="auto" >
+<img src="horari-dam2-1a-setmana-examens.png" width="800" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-1a-setmana-d-examens.pdf](./DAM-2024-2025-horari-1a-setmana-d-examens.pdf)

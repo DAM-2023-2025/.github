@@ -55,9 +55,18 @@
 
 ## 6a setmana d'exàmens
 
-### Horari de <u>dimarts</u> a <u>dilluns</u>
+### Horari de <u>dilluns</u> i <u>dimarts</u>
 
-**Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
+Horari concertat, de **`15.30 h`** a **`19.00 h`**
+
+### Horari de <u>dimecres</u> i <u>dijous</u>
+
+**Grup B** de **`15.00 h`** a **`16.30 h`**<br>**Grup A** de **`16.30 h`** a **`18.00 h`**
+
+### Horari de <u>divendres</u>
+
+**Grup B** de **`15.00 h`** a **`16.00 h`**<br>**Grup A** de **`16.00 h`** a **`17.00 h`**
+
 
 <img src="DAM2-2024-2025-horari-6a-setmana-d-examens.png" width="800" height="auto" >
 

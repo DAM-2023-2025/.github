@@ -53,61 +53,81 @@
 
 <hr>
 
-### 5a setmana d'exàmens
+## 6a setmana d'exàmens
 
-#### Horari de <u>dimarts</u> a <u>dilluns</u>
+### Horari de <u>dimarts</u> a <u>dilluns</u>
 
-**Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
+**Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
 
-![DAM2-2024-2025-horari-5a-setmana-d-examens.png](DAM2-2024-2025-horari-5a-setmana-d-examens.png)
+<img src="DAM2-2024-2025-horari-6a-setmana-d-examens.png" width="700" height="auto" >
 
-Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-5a-setmana-d-examens.pdf)
+Fitxer [DAM2-2024-2025-horari-6a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-6a-setmana-d-examens.pdf)
 
-#### 5a setmana d'exàmens 1r de DAM
+### 6a setmana d'exàmens 1r de DAM
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
-![DAM1-2024-2025-horari-5a-setmana-d-examens.png](DAM1-2024-2025-horari-5a-setmana-d-examens.png)
+<img src="DAM1-2024-2025-horari-6a-setmana-d-examens.png" width="700" height="auto" >
+
+Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-6a-setmana-d-examens.pdf)
+
+<hr>
+
+#### 5a setmana d'exàmens
+
+##### Horari de <u>dimarts</u> a <u>dilluns</u>
+
+**Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
+
+<img src="DAM2-2024-2025-horari-5a-setmana-d-examens.png" width="700" height="auto" >
+
+Fitxer [DAM2-2024-2025-horari-5a-setmana-d-examens.pdf](./DAM2-2024-2025-horari-5a-setmana-d-examens.pdf)
+
+##### 5a setmana d'exàmens 1r de DAM
+
+Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
+
+<img src="DAM1-2024-2025-horari-5a-setmana-d-examens.png" width="700" height="auto" >
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-5a-setmana-d-examens.pdf)
 
 <hr>
 
-### 4a setmana d'exàmens
+#### 4a setmana d'exàmens
 
-#### Horari de <u>dilluns</u> a <u>dimecres</u>
+##### Horari de <u>dilluns</u> a <u>dimecres</u>
 
 **Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 18.00 h
 
-#### Horari de <u>dijous</u>
+##### Horari de <u>dijous</u>
 
 **Grup B** de 17.00 h a 18.00 h<br>**Grup A** de 18.00 h a 19.00 h
 
-![DAM-2024-2025-horari-4a-setmana-d-examens](DAM-2024-2025-horari-4a-setmana-d-examens.png)
+<img src="DAM-2024-2025-horari-4a-setmana-d-examens.png" width="700" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-4a-setmana-d-examens.pdf](./DAM-2024-2025-horari-4a-setmana-d-examens.pdf)
 
-#### 4a setmana d'exàmens 1r de DAM
+##### 4a setmana d'exàmens 1r de DAM
 
 Us facilito també l'horari dels exàmens de 1r de DAM per aquells que hagueu de recuperar alguna unitat formativa.
 
-![DAM1-2024-2025-horari-4a-setmana-d-examens](DAM1-2024-2025-horari-4a-setmana-d-examens.png)
+<img src="DAM1-2024-2025-horari-4a-setmana-d-examens.png" width="700" height="auto" >
 
 Fitxer [DAM1-2024-2025-horari4a-setmana-d-examens.pdf](./DAM1-2024-2025-horari-4a-setmana-d-examens.pdf)
 
 <hr>
 
-### 3a setmana d'exàmens
+#### 3a setmana d'exàmens
 
-#### Horari de <u>dilluns</u> a <u>dimecres</u>
+##### Horari de <u>dilluns</u> a <u>dimecres</u>
 
 **Grup A** de 15.00 h a 16.30 h<br>**Grup B** de 16.30 h a 18.00 h
 
-#### Horari de <u>dijous</u>
+##### Horari de <u>dijous</u>
 
 **Grup A** de 17.00 h a 18.00 h<br>**Grup B** de 18.00 h a 19.00 h
 
-![DAM-2024-2025-horari-3a-setmana-d-examens](DAM-2024-2025-horari-3a-setmana-d-examens.png)
+<img src="DAM-2024-2025-horari-3a-setmana-d-examens.png" width="700" height="auto" >
 
 Fitxer [DAM-2024-2025-horari3a-setmana-d-examens.pdf](./DAM-2024-2025-horari-3a-setmana-d-examens.pdf)
 
@@ -118,7 +138,7 @@ Fitxer [DAM-2024-2025-horari3a-setmana-d-examens.pdf](./DAM-2024-2025-horari-3a-
 
 **Grup B** de 15.00 h a 16.30 h<br>**Grup A** de 16.30 h a 19.00 h
 
-![DAM-2024-2025-horari-2a-setmana-d-examens](DAM-2024-2025-horari-2a-setmana-d-examens.png)
+<img src="DAM-2024-2025-horari-2a-setmana-d-examens.png" width="700" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a-setmana-d-examens.pdf)
 
@@ -128,6 +148,6 @@ Fitxer [DAM-2024-2025-horari-2a-setmana-d-examens.pdf](./DAM-2024-2025-horari-2a
 
 **Grup A** de 15.30 h a 17.00 h       **Grup B** de 17.00 h a 18.30 h
 
-![alt text](horari-dam2-1a-setmana-examens.png)
+<img src="horari-dam2-1a-setmana-examens.png" width="700" height="auto" >
 
 Fitxer [DAM-2024-2025-horari-1a-setmana-d-examens.pdf](./DAM-2024-2025-horari-1a-setmana-d-examens.pdf)

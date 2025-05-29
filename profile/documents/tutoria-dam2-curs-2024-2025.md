@@ -33,6 +33,21 @@
 1. [Formulari dades de l'empresa](https://docs.google.com/forms/d/1SP3yrdzbV2eXbzPK0fYHxTcMViiIIRzJzUUWpru14T4)
 
 
+## Horaris de la setmana d'exàmens de recuperació
+
+<img src="DAM2-2024-2025-horari-setmana-recuperacions.png" width="800" height="auto" >
+
+Fitxer [DAM2-2024-2025-horari-setmana-recuperacions.pdf](./DAM2-2024-2025-horari-setmana-recuperacions.pdf)
+
+### 1r de DAM
+
+<img src="DAM1-2024-2025-horari-setmana-recuperacions.png" width="800" height="auto" >
+
+Fitxer [DAM1-2024-2025-horari-setmana-recuperacions.pdf](./DAM1-2024-2025-horari-setmana-recuperacions.pdf)
+
+
+
+
 ## Grups per les setmanes d'exàmens
 
 |**Grup A**|**Grup B**|
